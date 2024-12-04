@@ -8,10 +8,12 @@ public class My_Linked_List {
             this.val = val;
         }
     }
+    //"Testing contribution visibility"
 
     public static class MyLinkedList {
 
         int size;
+        
         ListNode dummy; // Dummy head node
 
         public MyLinkedList() {
